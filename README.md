@@ -1,6 +1,12 @@
 # clone_liquid_menu
 
-A new Flutter project.
+The codes of clone coding about Liquid Menu UI at 'Twistbase' Youtube channel
+
+![image](https://user-images.githubusercontent.com/36909992/125759008-0cf60e9c-dab9-4ec2-acc4-17104cafd7de.png)
+
+YouTube : https://www.youtube.com/watch?v=zS3ryJ7to8E&t=33s
+
+Source Code: https://github.com/gdrtrts/liquid-menu
 
 ## Getting Started
 
